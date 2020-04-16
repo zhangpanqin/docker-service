@@ -1,0 +1,6 @@
+logging:
+  level:
+    root: info
+    com.fly: info
+  file:
+    name: app.log
